@@ -1,14 +1,85 @@
-# AI SEO & AI Search Experts
+# AI SEO Experts
 
-| Expert | Role | Platform(s) | Profile | Focus | Evidence of Practice | Notes |
-|----------|----------|----------|----------|----------|----------|----------|
-| **Michael King** | Founder, iPullRank – AI-driven SEO and relevance engineering | LinkedIn | https://www.linkedin.com/in/michaelkingphilly | Relevance engineering, AI-powered content, and technical SEO at scale | Runs an SEO agency implementing AI systems and publishes deep technical case studies and talks on AI search | Established AI SEO authority in 2026 AI SEO expert lists and AI search expert roundups |
-| **Lily Ray** | Senior Director, SEO at Amsive – E-E-A-T and AI-era quality | LinkedIn | https://www.linkedin.com/in/lily-ray-44755615/ | AI-aligned content quality, E-E-A-T, and Google update analysis | Leads SEO for client sites and publishes analyses on AI’s impact on rankings and visibility | Featured as an AI SEO expert and authority on AI search visibility and updates in 2026 expert lists |
-| **Aleyda Solís** | Founder, Orainti – International and AI-informed SEO | YouTube, LinkedIn | https://www.youtube.com/@CrawlingMondaysbyAleyda | International SEO, AI-informed content strategy, and scalable SEO systems | Runs a consultancy, shares audits and frameworks, and produces video content on modern SEO with AI | Listed among top AI search and SEO experts to follow in 2026 |
-| **Cindy Krum** | CEO, MobileMoxie – Entity and mobile-first AI search | LinkedIn | https://www.linkedin.com/in/cindykrum/ | Entity-focused SEO, mobile search, and AI Overview foundations | Builds tools and consulting offers around entities and mobile search, with clear ties to AI search behavior | Named as an established authority in AI-aware, entity-oriented SEO in 2026 expert roundups |
-| **Kevin Indig** | Growth Advisor and SEO Strategist | LinkedIn, Newsletter | https://www.linkedin.com/in/kevinindig/ | Data-driven SEO and AI content strategies for large sites | Advises high-traffic companies, publishes essays on AI + SEO, and shares playbooks for content and growth | Included in AI search expert lists and as a top AI content strategy voice on LinkedIn in 2026 |
-| **Cyrus Shepard** | Founder, Zyppy – SEO testing and experimentation | LinkedIn, Blog | https://www.linkedin.com/in/cyrusshepard/ | SEO testing and AI-assisted content optimization | Runs experiments and tools, and shares tested on-page and AI-supported tactics | Recognized in 2026 AI SEO expert lists for AI-aware SEO testing and experimentation |
-| **Jason Barnard** | CEO, Kalicube – Entity and Answer Engine Optimization (AEO) | YouTube, LinkedIn, Podcasts | https://www.youtube.com/@jasonmbarnard | Entity-based SEO, brand SERPs, and answer engine optimization for AI search | Runs Kalicube’s SaaS/services and publishes deep dives on entities and AI/answer engines | Recognized for coining AEO and listed as an AI SEO specialist focused on entity-based optimization in 2026 |
-| **Ross Simmonds** | CEO, Foundation Inc. – Content distribution and GEO | LinkedIn, Newsletter, YouTube | https://www.linkedin.com/in/rosssimmonds/ | Generative Engine Optimization (GEO) and AI-assisted content distribution | Runs a content agency and shares AI-powered workflows for content ideation, repurposing, and distribution | Named as a GEO pioneer and rising AI search specialist in 2026 AI SEO expert lists |
-| **Koray Tuğberk Gübür** | Founder, Holistic SEO – Semantic and AI-driven SEO | YouTube, LinkedIn | https://www.youtube.com/@TopicalAuthority | Semantic SEO, topical authority, and AI-supported content networks | Runs large-scale experiments and publishes case studies using AI to model and optimize topical coverage | Featured as a rising AI search and semantic SEO specialist in 2026 lists |
-| **Nathan Gotch** | Founder, Gotch SEO – Systems-focused AI SEO practitioner | YouTube, LinkedIn | https://www.youtube.com/@nathangotch | Actionable AI-powered SEO systems and content frameworks | Runs SEO training and client work, sharing AI-based SOPs for keyword research and content production | Listed for actionable AI SEO systems and implementation focus in 2026 AI SEO expert roundups |
+## 1. Michael King
+- **Role:** Founder, iPullRank – AI-driven SEO and relevance engineering
+- **Primary Platform:** LinkedIn
+- **Profiles:**
+  - https://www.linkedin.com/in/michaelkingphilly
+- **Focus:** Relevance engineering, AI-powered content, and technical SEO at scale
+- **Evidence of Practice:** Runs an SEO agency implementing AI systems and publishes deep technical case studies and talks on AI search.
+- **Notes:** Established AI SEO authority featured in 2026 AI SEO expert lists and AI search roundups.
+
+## 2. Lily Ray
+- **Role:** Senior Director, SEO at Amsive – E-E-A-T and AI-era quality
+- **Primary Platform:** LinkedIn
+- **Profiles:**
+  - https://www.linkedin.com/in/lily-ray-44755615/
+  - https://www.youtube.com/@lilyray
+- **Focus:** AI-aligned content quality, E-E-A-T, and Google update analysis
+- **Evidence of Practice:** Leads SEO for client sites and publishes analyses on AI's impact on rankings and visibility.
+- **Notes:** Frequently featured as an AI SEO expert and authority on AI search visibility and Google updates.
+
+## 3. Aleyda Solís
+- **Role:** Founder, Orainti – International and AI-informed SEO
+- **Primary Platforms:** YouTube, LinkedIn
+- **Profiles:**
+  - https://www.youtube.com/@CrawlingMondaysbyAleyda
+  - https://www.linkedin.com/in/aleyda/
+- **Focus:** International SEO, AI-informed content strategy, and scalable SEO systems
+- **Evidence of Practice:** Runs a consultancy, shares audits and frameworks, and produces video content on modern SEO with AI.
+- **Notes:** Consistently listed among top AI search and SEO experts to follow.
+
+## 4. Cindy Krum
+- **Role:** CEO, MobileMoxie – Entity and mobile-first AI search
+- **Primary Platform:** LinkedIn
+- **Profiles:**
+  - https://www.linkedin.com/in/cindykrum/
+- **Focus:** Entity-focused SEO, mobile search, and AI-overview foundations
+
+## 5. Kevin Indig
+- **Role:** Growth Advisor and SEO Strategist
+- **Primary Platforms:** LinkedIn, Newsletter
+- **Profiles:**
+  - https://www.linkedin.com/in/kevinindig/
+
+## 6. Cyrus Shepard
+- **Role:** Founder, Zyppy – SEO testing and experimentation
+- **Profiles:**
+  - https://www.linkedin.com/in/cyrusshepard/
+
+## 7. Jason Barnard
+- **Role:** CEO, Kalicube – Entity and Answer Engine Optimization (AEO)
+- **Profiles:**
+  - https://www.youtube.com/@jasonmbarnard
+  - https://www.linkedin.com/in/jasonmbarnard/
+
+## 8. Ross Simmonds
+- **Role:** CEO, Foundation Inc. – Content distribution and GEO
+- **Profiles:**
+  - https://www.linkedin.com/in/rosssimmonds/
+  - https://www.youtube.com/@RossSimmondsTV
+
+## 9. Koray Tuğberk Gübür
+- **Role:** Founder, Holistic SEO – Semantic and AI-driven SEO
+- **Profiles:**
+  - https://www.youtube.com/@TopicalAuthority
+  - https://www.linkedin.com/in/koray-tugberk-gubur/
+
+## 10. Nathan Gotch
+- **Role:** Founder, Gotch SEO – Systems-focused AI SEO practitioner
+- **Profiles:**
+  - https://www.youtube.com/@nathangotch
+  - https://www.linkedin.com/in/nathangotch
+
+## Quick Summary by Specialty
+
+| Specialty | Experts |
+|------------|---------|
+| AI SEO & Relevance Engineering | Michael King, Kevin Indig |
+| E-E-A-T & Content Quality | Lily Ray |
+| International SEO | Aleyda Solís |
+| Entity SEO & AEO | Cindy Krum, Jason Barnard |
+| GEO (Generative Engine Optimization) | Ross Simmonds |
+| Semantic SEO & Topical Authority | Koray Tuğberk Gübür |
+| SEO Testing & Experimentation | Cyrus Shepard |
+| AI SEO Systems & SOPs | Nathan Gotch |
